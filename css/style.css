@@ -1,0 +1,163 @@
+/* header */
+header {
+    width: 1440px;
+    height: 122px;
+    background-color: #2A9D8F;
+    padding: 38px 130px;
+    margin: auto;
+}
+
+.logoLink {
+    width: 46px;
+    height: 46px;
+    display: inline-block;
+}
+
+.logoImage {
+    width: 100%;
+    height: 100%;
+}
+
+.headerNav {
+    display: inline-block;
+    margin-left: 697px;
+    /* vertical alignit zustad shuashi ar jdeba da ver gavige ratom:( */
+}
+
+li {
+    display: inline;
+}
+
+.middleNav {
+    margin: 0 76px;
+}
+
+.navLink {
+    font-family: "Nerko One", cursive;
+    font-size: 32px;
+    font-weight: 400;
+    line-height: 32px;
+    letter-spacing: 0.005em;
+    color: #FFFFFF;
+}
+
+/* section */
+.mainSection {
+    width: 1440px;
+    height: 630px;
+    background-color: #D4F3F0;
+    padding: 80px 130px;
+    margin: auto;
+}
+
+.sectionCover {
+    width: 600px;
+    height: 480px;
+}
+
+.infoSection {
+    width: 460px;
+    margin-left: 116px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.sectionTitle {
+    font-family: "Kanit", sans-serif;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 40px;
+    letter-spacing: 0.005em;
+    color: #06686E;
+}
+
+.sectionParagraph {
+    font-family: "Kanit", sans-serif;
+    font-size: 18px;
+    font-style: italic;
+    font-weight: 275;
+    line-height: 27px;
+    letter-spacing: 0.005em;
+    color: #06686E;
+    margin: 32px 0 60px;
+}
+
+.sectionButton {
+    width: 112px;
+    height: 46px;
+    background-color: #2A9D8F;
+    border: none;
+    cursor: pointer;
+    font-family: "Kanit", sans-serif;
+    font-size: 16px;
+    font-weight: 275;
+    line-height: 24px;
+    color: #FFFFFF;
+}
+
+/* article */
+article {
+    width: 1180px;
+    margin: 80px auto;
+}
+
+.articleTitle {
+    font-family: "Kanit", sans-serif;
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 48px;
+    letter-spacing: 0.005em;
+    text-align: center;
+    color: #06686E;
+}
+
+.artiicleParagraph {
+    font-family: "Kanit", sans-serif;
+    font-size: 24px;
+    font-weight: 275;
+    line-height: 36px;
+    letter-spacing: 0.005em;
+    text-align: justified;
+    color: #06686E;
+    margin-top: 32px;
+}
+
+/* footer */
+footer {
+    width: 1440px;
+    height: 175px;
+    background-color: #2A9D8F;
+    padding: 38px 0;
+    margin: auto;
+    justify-content: center;
+}
+
+.footerTitle {
+    font-family: "Kanit", sans-serif;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 40px;
+    color: #FFFFFF;
+    width: 150px;
+    margin: auto;
+}
+
+.footerNav {
+    width: 168px;
+    margin: 40px auto 0;
+}
+
+.footerLi {
+    margin-right: 28px;
+}
+
+.footerLink {
+    width: 18px;
+    height: 18px;
+    display: inline-block;
+}
+
+.footerLogo {
+    width: 100%;
+    height: 100%;
+}

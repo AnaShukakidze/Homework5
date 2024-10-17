@@ -1,0 +1,26 @@
+@font-face {
+    font-family: 'Nerko One';
+    src: url('../fonts/NerkoOne-Regular.eot');
+    src: url('../fonts/NerkoOne-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/NerkoOne-Regular.woff2') format('woff2'),
+        url('../fonts/NerkoOne-Regular.woff') format('woff'),
+        url('../fonts/NerkoOne-Regular.ttf') format('truetype'),
+        url('../fonts/NerkoOne-Regular.svg#NerkoOne-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Kanit';
+    src: url('../fonts/Kanit-Regular.eot');
+    src: url('../fonts/Kanit-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Kanit-Regular.woff2') format('woff2'),
+        url('../fonts/Kanit-Regular.woff') format('woff'),
+        url('../fonts/Kanit-Regular.ttf') format('truetype'),
+        url('../fonts/Kanit-Regular.svg#Kanit-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
