@@ -1,7 +1,6 @@
 /* header */
 header {
     width: 1440px;
-    height: 122px;
     background-color: #2A9D8F;
     padding: 38px 130px;
     margin: auto;
@@ -11,6 +10,7 @@ header {
     width: 46px;
     height: 46px;
     display: inline-block;
+    vertical-align: middle;
 }
 
 .logoImage {
@@ -21,7 +21,7 @@ header {
 .headerNav {
     display: inline-block;
     margin-left: 697px;
-    /* vertical alignit zustad shuashi ar jdeba da ver gavige ratom:( */
+    vertical-align: middle;
 }
 
 li {
@@ -44,15 +44,13 @@ li {
 /* section */
 .mainSection {
     width: 1440px;
-    height: 630px;
     background-color: #D4F3F0;
     padding: 80px 130px;
     margin: auto;
 }
 
 .sectionCover {
-    width: 600px;
-    height: 480px;
+    vertical-align: top;
 }
 
 .infoSection {
@@ -117,7 +115,7 @@ article {
     font-weight: 275;
     line-height: 36px;
     letter-spacing: 0.005em;
-    text-align: justified;
+    text-align: justify;
     color: #06686E;
     margin-top: 32px;
 }
@@ -125,11 +123,9 @@ article {
 /* footer */
 footer {
     width: 1440px;
-    height: 175px;
     background-color: #2A9D8F;
     padding: 38px 0;
     margin: auto;
-    justify-content: center;
 }
 
 .footerTitle {
@@ -138,8 +134,7 @@ footer {
     font-weight: 700;
     line-height: 40px;
     color: #FFFFFF;
-    width: 150px;
-    margin: auto;
+    text-align: center;
 }
 
 .footerNav {
